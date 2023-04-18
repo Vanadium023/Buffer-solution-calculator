@@ -3,7 +3,7 @@
 # Buffer-solution-calculator
 Buffer Concentration Calculator
 ## Introduction
-This program is designed for calculating the required concentration of solutions for preparing acid-base buffer solutions in the laboratory. The calculation algorithm of this calculator is relatively simple, based solely on the equilibrium constant Ka of acid-base reactions, ignoring factors such as ionic strength, activity coefficients, ion atmosphere, and the effect of common ion, so the calculated results may have little errors compared to actual results.
+This is a program for calculating the solution concentration required for acid-base buffer solution preparation in the laboratory. The calculation algorithm of the calculator is relatively simple, based only on the acid dissociation constant pKa of acid-base equilibrium, ignoring the effects of factors such as ionic strength, ion atmosphere, activity coefficient, and ionic strength. Therefore, the calculated results may have certain errors compared to the actual results, so precision calculation should be taken into consideration.
 
 ## Notes
 1.All inputs of this program are in SI units, such as mol, L. To avoid excessively small numerical values, the outputs are in commonly used units such as ml, g. If the desired units of calculation are not in these units, please convert accordingly.
