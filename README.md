@@ -1,4 +1,4 @@
-阅读中文版，请点击 [中文说明](./README_zh_CN.md).
+阅读中文版，请点击 [中文说明]((docs/README_zh_CN.md)).
 
 # Buffer-solution-calculator
 Buffer Concentration Calculator
