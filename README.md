@@ -1,3 +1,5 @@
+For Chinese version, please click [here](./README_zh_CN.md).
+
 # Buffer-solution-calculator
 Buffer Concentration Calculator
 ## Introduction
