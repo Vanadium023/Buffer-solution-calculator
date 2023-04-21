@@ -12,7 +12,7 @@ This is a program for calculating the solution concentration required for acid-b
 
 3.All calculated results are for reference only. It is recommended to verify the results before use. The author does not take responsibility for any experimental issues caused by incorrect calculations.
 
-4.Note that all buffer solutions have their own buffering ranges. Beyond this range, buffer effect will not be achieved. Therefore, it is recommended to verify the choice of buffer solution type before calculating.
+4.Note that all buffer solutions have their own buffering ranges. Beyond this range, buffer effect will not be achieved. Therefore, it is recommended to verify the choice of buffer solution type before calculating :)
 
 ## Usage
 1.Run the program in the terminal and input the required parameters as prompted by the program. 
