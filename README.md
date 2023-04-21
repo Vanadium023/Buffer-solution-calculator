@@ -8,7 +8,7 @@ This is a program for calculating the solution concentration required for acid-b
 ## Notes
 1.All inputs of this program are in SI units, such as mol, L. To avoid excessively small numerical values, the outputs are in commonly used units such as ml, g. If the desired units of calculation are not in these units, please convert accordingly.
 
-2.Currently, only the pKa values of commonly used acetic acid-sodium acetate buffer solutions are included. If you want to prepare buffer solutions of other monoprotic acids, please search and input their corresponding pKa values. For polyprotic acids, due to their multiple ionization levels, calculating based on the method used for monoprotic acids may have significant errors, so it is not recommended to use this calculator for such calculations.
+2.At present, only the pKa of the commonly used 7 buffer solutions is included, if you want to configure the buffer solution of other monoacids, please find the pKa by yourself; Due to the multi-level ionization, polyacids may have large errors in the calculation of monoacids, and it is not recommended to calculate them using this calculator.
 
 3.All calculated results are for reference only. It is recommended to verify the results before use. The author does not take responsibility for any experimental issues caused by incorrect calculations.
 
